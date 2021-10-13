@@ -10,7 +10,7 @@ Repositório com os laboratórios desenvolvidos ao longo da disciplina.
 
 Laboratório | Especificação | Código
 :--: | :--: | :--:
-Lab 1 | [Link](Laboratorios/Lab1/README.md) | [Link](Laboratorios/Lab1/README.md) 
+Lab 1 | [Link](Laboratorios/Lab1) | [Link](Laboratorios/Lab1) 
 Lab 2 | [Link](Especificacoes/Lab2.pdf)  | [Link](Laboratorios/Lab2)
 Lab 3 | [Link](Especificacoes/Lab3.pdf)  | [Link](Laboratorios/Lab3)
 Lab 4 | [Link](Especificacoes/Lab4.pdf)  | [Link](Laboratorios/Lab4)
