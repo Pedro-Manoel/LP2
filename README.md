@@ -16,7 +16,7 @@ Lab 3 | [Link](Especificacoes/Lab3.pdf)  | [Link](Laboratorios/Lab3)
 Lab 4 | [Link](Especificacoes/Lab4.pdf)  | [Link](Laboratorios/Lab4)
 Lab 5 | [Link](Especificacoes/Lab5.pdf)  | [Link](Laboratorios/Lab5)
 Lab 6 | [Link](Especificacoes/Lab6.pdf)  | [Link](Laboratorios/Lab6)
-Lab 7 | [Link](https://docs.google.com/document/u/1/d/e/2PACX-1vQr1u6oM_Bms7BTv1EP4krNhrfXaVoai5yoErdED6V_Clhvqq9WHBrD6Oc8UluMKkoNsSAeusBVOC-8/pub#h.jzjbwyt91cvb)  | [Link](Laboratorios/Lab7)
+Lab 7 | [Link](Especificacoes/Lab7.pdf)  | [Link](Laboratorios/Lab7)
 
 ## 📃 Licença
 
